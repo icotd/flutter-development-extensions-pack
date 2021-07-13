@@ -12,6 +12,7 @@ This extension package contains useful extensions for working with Flutter in vi
 - [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
+- [Dart Barrel File Generator](https://marketplace.visualstudio.com/items?itemName=miquelddg.dart-barrel-file-generator) - Generates barrel files for dart projects and Flutter apps.
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - lutter support and debugger for Visual Studio Code.
 - [Flutter Print](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.flutter-print) - Help insert and remove print(*) statement.
 - [Flutter Tree](https://marketplace.visualstudio.com/items?itemName=marcelovelasquez.flutter-tree) - Extension for Flutter to build basic widget tree.
