@@ -2,6 +2,10 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.3.0]
+
+- Added Dart Data Class Generator extension.
+
 ## [1.2.0]
 
 - Added Dart Barrel File Generator extension.
