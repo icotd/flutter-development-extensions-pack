@@ -10,6 +10,7 @@ This extension package contains useful extensions for working with Flutter in vi
 ### Extensions Included
 
 - [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
+- [Create Flutter Widgets and Classes](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.create-flutter-widgets-and-classes) - Extension that creates Flutter Stateless or Stateful Widgets, Screens, MobX Store and Classes..
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
 - [Dart Barrel File Generator](https://marketplace.visualstudio.com/items?itemName=miquelddg.dart-barrel-file-generator) - Generates barrel files for dart projects and Flutter apps.
 - [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=BendixMa.dart-data-class-generator) - Create dart data classes easily, fast and without writing boilerplate or running code generation.

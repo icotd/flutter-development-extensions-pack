@@ -2,6 +2,10 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.5.0]
+
+- Added Create Flutter Widgets and Classes extension.
+
 ## [1.4.0]
 
 - Added FlutterPubOpen extension.
