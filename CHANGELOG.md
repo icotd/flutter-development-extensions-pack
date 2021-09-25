@@ -2,6 +2,12 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.6.0]
+
+- Added Pubspec Dependency Search extension.
+- Removed FlutterPubOpen extension.
+- Removed Pubspec Assist extension.
+
 ## [1.5.0]
 
 - Added Create Flutter Widgets and Classes extension.

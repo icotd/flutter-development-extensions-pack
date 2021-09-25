@@ -16,11 +16,10 @@ This extension package contains useful extensions for working with Flutter in vi
 - [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=BendixMa.dart-data-class-generator) - Create dart data classes easily, fast and without writing boilerplate or running code generation.
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - lutter support and debugger for Visual Studio Code.
 - [Flutter Print](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.flutter-print) - Help insert and remove print(*) statement.
-- [FlutterPubOpen](https://marketplace.visualstudio.com/items?itemName=AndrijaRubelj.flutterpubopen) - Opens pub.dev package and API for your pubspec.yaml dependencies.
 - [Flutter Tree](https://marketplace.visualstudio.com/items?itemName=marcelovelasquez.flutter-tree) - Extension for Flutter to build basic widget tree.
 - [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) - A set of helpful widget snippets for day to day Flutter development.
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover.
 - [Json to Dart Model](https://marketplace.visualstudio.com/items?itemName=hirantha.json-to-dart) - Extension convert Json to Dart Model class.
-- [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist) - Easily add and update dependencies to your Dart and Flutter project.
+- [Pubspec Dependency Search](https://marketplace.visualstudio.com/items?itemName=everettjf.pubspec-dependency-search) - Easy search dependency name in dart packages site for flutter developers.
 
 **Enjoy!**
