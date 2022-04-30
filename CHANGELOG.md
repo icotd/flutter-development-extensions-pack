@@ -2,6 +2,10 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.7.0]
+
+- Updated the README.md file.
+
 ## [1.6.1]
 
 - Fix to include Pubspec Dependency Search extension.
