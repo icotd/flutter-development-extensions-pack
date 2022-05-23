@@ -2,6 +2,10 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.8.0]
+
+- Added Copy Widget extension.
+
 ## [1.7.0]
 
 - Updated the README.md file.
