@@ -2,6 +2,10 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.9.0]
+
+- Removed the Copy Widget extension as its functionality was added to the Flutter Tools extension.
+
 ## [1.8.0]
 
 - Added Copy Widget extension.
