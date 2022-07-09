@@ -10,11 +10,11 @@ This extension package contains useful extensions for working with Flutter in vi
 ### Extensions Included
 
 - [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes.
-- [Flutter Creator](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.create-flutter-widgets-and-classes) - This extension creates Stateless Widgets, Stateful Widgets, GetX App Structure, GetX Features, GetX Services, MobX Store, Classes, Interfaces, and you can also apply to existing widgets new wrappers in your Flutter projects.
+- [Flutter Tools](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.create-flutter-widgets-and-classes) - This extension creates Stateless Widgets, Stateful Widgets, GetX App Structure, GetX Features, GetX Services, MobX Store, Classes, Interfaces, and you can also apply to existing widgets new wrappers in your Flutter projects.
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
 - [Dart Barrel File Generator](https://marketplace.visualstudio.com/items?itemName=miquelddg.dart-barrel-file-generator) - Generates barrel files for dart projects and Flutter apps.
-- [Dart Data Class Generator - Off-line](https://marketplace.visualstudio.com/items?itemName=BendixMa.dart-data-class-generator) - Create dart data classes easily, fast and without writing boilerplate or running code generation.
-- [Dart Data Class Generator - Alternative Download](https://www.vsixhub.com/vsix/3805) - Create dart data classes easily, fast and without writing boilerplate or running code generation. Must be downloaded and installed manually.
+- [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=hzgood.dart-data-class-generator) - Create dart data classes easily, fast and without writing boilerplate or running code generation.
+- [Dart Data Class Generator 0.5.5 - Alternative Download](https://www.vsixhub.com/vsix/3805) - Create dart data classes easily, fast and without writing boilerplate or running code generation. Must be downloaded and installed manually.
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - lutter support and debugger for Visual Studio Code.
 - [Flutter Print](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.flutter-print) - Help insert and remove print(*) statement.
 - [Flutter Tree](https://marketplace.visualstudio.com/items?itemName=marcelovelasquez.flutter-tree) - Extension for Flutter to build basic widget tree.
