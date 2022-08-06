@@ -2,12 +2,12 @@
   "name": "flutter-development-extensions-pack",
   "displayName": "Flutter Development Extensions Pack",
   "description": "A set of useful extensions for Flutter project.",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "publisher": "ricardo-emerson",
   "icon": "extension-icon.png",
   "repository": "https://github.com/ricardoemerson/flutter-development-extensions-pack",
   "engines": {
-    "vscode": "^1.26.0"
+    "vscode": "^1.65.0"
   },
   "keywords": [
     "Flutter",
@@ -28,12 +28,11 @@
     "Dart-Code.flutter",
     "everettjf.pubspec-dependency-search",
     "hirantha.json-to-dart",
-    "hzgood.dart-data-class-generator",
     "kisstkondoros.vscode-gutter-preview",
-    "marcelovelasquez.flutter-tree",
     "miquelddg.dart-barrel-file-generator",
     "Nash.awesome-flutter-snippets",
     "ricardo-emerson.create-flutter-widgets-and-classes",
+    "ricardo-emerson.dart-data-class-tools",
     "ricardo-emerson.flutter-print"
   ],
   "__metadata": {

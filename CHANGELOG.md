@@ -2,6 +2,11 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.10.0]
+
+- Changed the extension Dart Data Class Generator repository.
+- Removed the extension Flutter Tree.
+
 ## [1.9.1]
 
 - Updated the README.md file.
