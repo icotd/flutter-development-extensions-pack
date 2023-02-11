@@ -2,6 +2,11 @@
 
 All notable changes to the "flutter-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.11.0]
+
+- Added Dart Getters And Setters extension.
+- Added Flutter Assets Gen extension.
+
 ## [1.10.0]
 
 - Changed the extension Dart Data Class Generator repository.
